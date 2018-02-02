@@ -1,0 +1,29 @@
+# depslib dependency file v1.0
+1516923926 source:c:\spring2018\tictactoe\board.cpp
+	"Player.h"
+	"Board.h"
+	<string>
+	<iostream>
+
+1516923872 c:\spring2018\tictactoe\board.h
+	<vector>
+	"Player.h"
+
+1446667744 source:c:\spring2018\tictactoe\main.cpp
+	<iostream>
+
+1516924524 source:c:\spring2018\tictactoe\player.cpp
+	"Player.h"
+	"Board.h"
+	<vector>
+	<iostream>
+
+1516924528 c:\spring2018\tictactoe\player.h
+	<vector>
+	<string>
+
+1516924557 source:c:\spring2018\tictactoe\tictactoesgame.cpp
+	"Player.h"
+	"Board.h"
+	<iostream>
+
